@@ -1,4 +1,3 @@
 # Learning
 ---
-| Trying out github.
-| Mainly code in C#, Python and some Webb!
+| Just a templet for me, if i forget how to play with turtles in python!
